@@ -4,8 +4,8 @@ version = "1.0.0"
 # Fill out these fields if you intend to generate HTML documentation or publish
 # your project to the Hex package manager.
 #
-# description = ""
-# licences = ["Apache-2.0"]
+description = "Double Up or DLBUP (Distributed Load balancing and user processing) Is a full-stack service that distributes server load amongst users to reduce costs and increase redundancy, as well as serve as a preventative action against DDOS and Malicious attacks."
+licences = ["Apache-2.0"]
 # repository = { type = "github", user = "", repo = "" }
 # links = [{ title = "Website", href = "" }]
 #
