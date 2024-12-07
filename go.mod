@@ -1,0 +1,3 @@
+module mESmaC/doubleup
+
+go 1.23.3
