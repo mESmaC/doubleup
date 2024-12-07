@@ -2,8 +2,10 @@ package main
 
 import (
 	"fmt"
+	"mESmaC/doubleup/api"
 )
 
 func main() {
-	fmt.Println("test")
+	fmt.Println("Test")
+	api.StartServer()
 }
